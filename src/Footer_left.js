@@ -8,7 +8,7 @@ function Footer_left() {
             <h4>Experiance & Education</h4>
             </div>
             <div className="data_main">
-            <Info heading="1 Yr +" data="Freelancing"/>
+            <Info heading="1.5 Yr +" data="Freelancing & Also worked worked in IORD(IntelOra resources & Developments)"/>
             <Info heading="12th Passed form CBSE Board" data="From KVS"/>
             
             

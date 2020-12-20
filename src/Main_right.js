@@ -8,10 +8,10 @@ function Main_right() {
             <h4 className="">Skills</h4>
             </div>
             <div className="data_main">
-            <Info heading="HTML 5" data="(Advanced)"/>
-            <Info heading="CSS 3 + CSS Libraries" data="(Advanced)"/>
-            <Info heading="Javascript" data="(Advanced)"/>
-            <Info heading="React & Firebase" data="(Advanced)"/>
+            <Info heading="HTML 5, CSS 3, Javascript" data="(Advanced)"/>
+            <Info heading="CSS & Js Libraries (React Js, Bootstarp, Material UI, etc)" data="(Advanced)"/>
+            <Info heading="Python" data="(Intermediate)"/>
+            <Info heading="MERN Stack & Firebase" data="(Intermediate)"/>
             <Info heading="APIs" data="(Intermediate)"/>
             <Info heading="PHP & MySQL" data="(Intermediate)"/>
             <Info heading="Photoshop" data="(Intermediate)"/>
